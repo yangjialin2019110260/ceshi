@@ -11500,3 +11500,19 @@ ETHUSDT 已执行 6 次，剩余 0 次
 ---------------------------------------------------------
 ETHUSDT 已执行全部交易指令，停止运行
 ---------------------------------------------------------
+Time: 2023-08-17 12:23:35 CST+0800
+循环产生一次错误
+HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/706ac938e81c4869938f5fc50d5f5b98/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f29fadf0430>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+---------------------------------------------------------
+Time: 2023-08-17 12:23:41 CST+0800
+循环产生一次错误
+HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/706ac938e81c4869938f5fc50d5f5b98/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f29fadf02b0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+---------------------------------------------------------
+Time: 2023-08-17 12:23:47 CST+0800
+循环产生一次错误
+HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/706ac938e81c4869938f5fc50d5f5b98/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f29fadf05b0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+---------------------------------------------------------
+Time: 2023-08-17 12:23:53 CST+0800
+循环产生一次错误
+HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/706ac938e81c4869938f5fc50d5f5b98/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f29fadf0310>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+---------------------------------------------------------
