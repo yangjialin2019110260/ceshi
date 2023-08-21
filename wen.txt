@@ -11686,3 +11686,7 @@ Time: 2023-08-21 08:53:58 CST+0800
 循环产生一次错误
 HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/706ac938e81c4869938f5fc50d5f5b98/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f174c52fa60>: Failed to establish a new connection: [Errno -2] Name or service not known'))
 ---------------------------------------------------------
+Time: 2023-08-21 08:56:08 CST+0800
+循环产生一次错误
+HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/706ac938e81c4869938f5fc50d5f5b98/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f174c52f160>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+---------------------------------------------------------
