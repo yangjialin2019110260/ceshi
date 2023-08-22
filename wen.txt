@@ -11808,3 +11808,7 @@ Sold 180.0 DOGEUSDT at 0.06251
 ---------------------------------------------------------
 DOGEUSDT 已执行 5 次，剩余 15 次
 ---------------------------------------------------------
+Time: 2023-08-22 11:45:52 CST+0800
+循环产生一次错误
+HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/pages/003cb1f846a84f3c8c73343e61a28ce5 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f90e8e76700>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+---------------------------------------------------------
