@@ -11851,4 +11851,9 @@ Sold 180.0 DOGEUSDT at 0.06301
 ---------------------------------------------------------
 DOGEUSDT 已执行 3 次，剩余 17 次
 ---------------------------------------------------------
-command is 开始0getcommand1command is 结束getcommand2s1
+command is 开始0getcommand1command is 结束getcommand2s1s20getcommand1command is 开始getcommand21621updatepage1updatepage2updatepage3updatepage42getcommand1command is 开始getcommand223331Time: 2023-08-23 09:48:40 CST+0800
+Bought 0.05 ETHUSDT at 1636.83
+---------------------------------------------------------
+ETHUSDT 已执行 1 次，剩余 19 次
+---------------------------------------------------------
+3131313131315
