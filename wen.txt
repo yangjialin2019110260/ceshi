@@ -11896,4 +11896,9 @@ Bought 0.01 ETHUSDT at 1634.9600000000003
 ---------------------------------------------------------
 ETHUSDT 已执行 7 次，剩余 93 次
 ---------------------------------------------------------
-31313131313155121updatepage1updatepage2updatepage3updatepage42getcommand1command is 结束getcommand223updatepage1updatepage2updatepage3updatepage47updatepage1updatepage2updatepage3updatepage48s1
+31313131313155121updatepage1updatepage2updatepage3updatepage42getcommand1command is 结束getcommand223updatepage1updatepage2updatepage3updatepage47updatepage1updatepage2updatepage3updatepage48s1s20getcommand1command is 开始getcommand21621updatepage1updatepage2updatepage3updatepage42getcommand1command is 开始getcommand223331Time: 2023-08-23 11:14:34 CST+0800
+Bought 0.022 ETHUSDT at 1633.6100000000001
+---------------------------------------------------------
+ETHUSDT 已执行 1 次，剩余 287 次
+---------------------------------------------------------
+3131313131315
