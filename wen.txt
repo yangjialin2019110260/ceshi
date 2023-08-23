@@ -12021,4 +12021,8 @@ ETHUSDT 已执行 15 次，剩余 273 次
 循环产生一次错误
 HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/pages/003cb1f846a84f3c8c73343e61a28ce5 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbb15b31820>: Failed to establish a new connection: [Errno -2] Name or service not known'))
 ---------------------------------------------------------
-s1s20getcommand1e1updateerro1updateerro2updateerro3mymain1updateerro1updateerro2updateerro30getcommand1
+s1s20getcommand1e1updateerro1updateerro2updateerro3mymain1updateerro1updateerro2updateerro30getcommand1command is 开始getcommand21e1updateerro1updateerro2updateerro3updateerro4e2e3Time: 2023-08-23 16:06:31 CST+0800
+循环产生一次错误
+HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/2ff1d199d58f4e3393ede11fcbcb8268/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0702e08df0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+---------------------------------------------------------
+s1
