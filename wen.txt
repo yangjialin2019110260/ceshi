@@ -12025,4 +12025,9 @@ s1s20getcommand1e1updateerro1updateerro2updateerro3mymain1updateerro1updateerro2
 循环产生一次错误
 HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/2ff1d199d58f4e3393ede11fcbcb8268/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0702e08df0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
 ---------------------------------------------------------
-s1
+s1s20getcommand1command is 开始getcommand216212getcommand1command is 开始getcommand223331Time: 2023-08-23 16:08:52 CST+0800
+Bought 0.022 ETHUSDT at 1646.0099999999998
+---------------------------------------------------------
+ETHUSDT 已执行 1 次，剩余 287 次
+---------------------------------------------------------
+3131313131315
