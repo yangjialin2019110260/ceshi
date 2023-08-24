@@ -13029,4 +13029,8 @@ Bought 0.032 ETHUSDT at 1675.5
 ---------------------------------------------------------
 ETHUSDT 已执行 25 次，剩余 263 次
 ---------------------------------------------------------
-313131313131551212getcommand1e1updateerro1updateerro2updateerro3mymain1updateerro1updateerro2updateerro30getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1
+313131313131551212getcommand1e1updateerro1updateerro2updateerro3mymain1updateerro1updateerro2updateerro30getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1e1e2Time: 2023-08-24 12:05:06 CST+0800
+循环产生一次错误
+HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/706ac938e81c4869938f5fc50d5f5b98/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9235640040>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+---------------------------------------------------------
+updateerro1updateerro2updateerro3updateerro4e3s1
