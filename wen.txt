@@ -13137,3 +13137,10 @@ updateerro1updateerro2updateerro3mymain1updateerro1updateerro2updateerro3
 第29次command is 开始
 第30次command is 开始
 第31次
+第1次command is 开始
+第2次command is 开始
+第3次command is 开始
+第4次command is 开始
+第5次command is 开始
+第6次
+出错：HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/706ac938e81c4869938f5fc50d5f5b98/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f6a16d29490>: Failed to establish a new connection: [Errno -2] Name or service not known'))
