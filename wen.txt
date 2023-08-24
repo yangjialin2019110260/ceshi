@@ -13037,4 +13037,4 @@ updateerro1updateerro2updateerro3updateerro4e3s1s20getcommand1command is 结束g
 循环产生一次错误
 HTTPSConnectionPool(host='api.notion.com', port=443): Max retries exceeded with url: /v1/databases/706ac938e81c4869938f5fc50d5f5b98/query (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9235643610>: Failed to establish a new connection: [Errno -2] Name or service not known'))
 ---------------------------------------------------------
-updateerro1updateerro2updateerro3updateerro4e3s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1
+updateerro1updateerro2updateerro3updateerro4e3s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1
