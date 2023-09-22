@@ -4275,4 +4275,4 @@ updateerro1updateerro2updateerro3updateerro4e3s1s20getcommand1command is 结束g
 循环产生一次错误
 Expecting value: line 1 column 1 (char 0)
 ---------------------------------------------------------
-updateerro1updateerro2updateerro3updateerro4e3s1
+updateerro1updateerro2updateerro3updateerro4e3s1s20getcommand1command is 结束getcommand2s1
