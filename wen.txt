@@ -4277,4 +4277,4 @@ Expecting value: line 1 column 1 (char 0)
 ---------------------------------------------------------
 updateerro1updateerro2updateerro3updateerro4e3s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1getcommand1command is 结束getcommand2
 2023-09-22 08:25:09 CST+0800
-激活线程bool_num:42s20getcommand1command is 结束getcommand2s1
+激活线程bool_num:42s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1
