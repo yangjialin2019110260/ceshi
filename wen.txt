@@ -14550,4 +14550,4 @@ binance Account has insufficient balance for requested action.
 ---------------------------------------------------------
 updateerro1updateerro2updateerro3getcommand1updateerro4e3s1command is 开始getcommand2
 2023-10-08 20:43:23 CST+0800
-激活线程bool_num:61
+激活线程bool_num:61s20getcommand1
