@@ -1,4 +1,6 @@
 
 将重启一次,报错：getcommand1command is 开始getcommand2
 2023-10-16 05:18:03 CST+0800
-激活线程bool_num:413
+激活线程bool_num:413getcommand1command is 开始getcommand2
+2023-10-16 05:48:09 CST+0800
+激活线程bool_num:414
