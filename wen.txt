@@ -285,4 +285,6 @@
 2023-10-19 04:02:03 CST+0800
 激活线程bool_num:554getcommand1command is 开始getcommand2
 2023-10-19 04:32:08 CST+0800
-激活线程bool_num:555
+激活线程bool_num:555getcommand1command is 开始getcommand2
+2023-10-19 05:02:13 CST+0800
+激活线程bool_num:556
