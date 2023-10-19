@@ -303,4 +303,6 @@
 2023-10-19 08:32:56 CST+0800
 激活线程bool_num:563getcommand1command is 开始getcommand2
 2023-10-19 09:03:02 CST+0800
-激活线程bool_num:564
+激活线程bool_num:564getcommand1command is 开始getcommand2
+2023-10-19 09:33:08 CST+0800
+激活线程bool_num:565
