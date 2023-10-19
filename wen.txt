@@ -305,4 +305,11 @@
 2023-10-19 09:03:02 CST+0800
 激活线程bool_num:564getcommand1command is 开始getcommand2
 2023-10-19 09:33:08 CST+0800
-激活线程bool_num:565
+激活线程bool_num:5650getcommand1getcommand1command is 开始getcommand2
+2023-10-19 09:50:18 CST+0800
+激活线程bool_num:0command is 开始getcommand216updatepage1updatepage2updatepage3updatepage4212getcommand1command is 开始getcommand223331Time: 2023-10-19 09:50:38 CST+0800
+Bought 0.12 ETHUSDT at 1547.03
+---------------------------------------------------------
+ETHUSDT 已执行 1 次，剩余 287 次
+---------------------------------------------------------
+3131313131315
