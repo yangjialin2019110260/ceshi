@@ -1846,3 +1846,5 @@ ETHUSDT 已执行 288 次，剩余 0 次
 updatepage1updatepage2updatepage3updatepage4ETHUSDT 已执行全部交易指令，停止运行
 ---------------------------------------------------------
 3131313131315
+2023-10-20 10:20:27 CST+0800
+激活线程bool_num:051212getcommand1command is 结束getcommand223updatepage1updatepage2updatepage3updatepage478s1
