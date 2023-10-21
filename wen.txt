@@ -3387,4 +3387,4 @@ ETHUSDT 已执行 288 次，剩余 0 次
 ---------------------------------------------------------
 updatepage1updatepage2updatepage3updatepage4ETHUSDT 已执行全部交易指令，停止运行
 ---------------------------------------------------------
-313131313131551212getcommand1command is 结束getcommand223updatepage1updatepage2updatepage3updatepage478s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1
+313131313131551212getcommand1command is 结束getcommand223updatepage1updatepage2updatepage3updatepage478s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1
