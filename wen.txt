@@ -3485,4 +3485,4 @@ updatepage1updatepage2updatepage3updatepage4ETHUSDT 已执行全部交易指令�
 2023-10-22 10:55:05 CST+0800
 激活线程bool_num:47s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1getcommand1command is 结束getcommand2
 2023-10-22 11:25:10 CST+0800
-激活线程bool_num:48s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1
+激活线程bool_num:48s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1s20getcommand1command is 结束getcommand2s1
