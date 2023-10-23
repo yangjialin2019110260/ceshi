@@ -3837,4 +3837,4 @@ updatepage1updatepage2updatepage3updatepage4ETHUSDT 已执行全部交易指令�
 时间： 2023-10-23 16:26:02.962165
 当前 ETHUSDT 价格未低于 1640.0，暂不执行交易
 ---------------------------------------------------------
-313131313131551212getcommand1command is 结束getcommand223updatepage1updatepage2updatepage3updatepage478s1
+313131313131551212getcommand1command is 结束getcommand223updatepage1updatepage2updatepage3updatepage478s1s20getcommand1command is 结束getcommand2s1
