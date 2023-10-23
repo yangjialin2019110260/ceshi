@@ -4151,4 +4151,4 @@ updatepage1updatepage2updatepage3updatepage4ETHUSDT 已执行全部交易指令�
 ---------------------------------------------------------
 3131313131315
 2023-10-23 22:48:57 CST+0800
-激活线程bool_num:0
+激活线程bool_num:051212getcommand1command is 开始getcommand223331
