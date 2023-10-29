@@ -14533,4 +14533,8 @@ updatepage1updatepage2updatepage3updatepage4ETHUSDT 已执行全部交易指令�
 循环产生一次错误
 binance Account has insufficient balance for requested action.
 ---------------------------------------------------------
+updateerro1updateerro2updateerro3updateerro4e3s1s20getcommand1command is 开始getcommand216updatepage1updatepage2updatepage3updatepage4212getcommand1command is 开始getcommand223331e1e2Time: 2023-10-30 07:30:12 CST+0800
+循环产生一次错误
+binance Account has insufficient balance for requested action.
+---------------------------------------------------------
 updateerro1updateerro2updateerro3updateerro4e3s1
