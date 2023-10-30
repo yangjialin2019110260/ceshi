@@ -15732,3 +15732,9 @@ Bought 0.08 ETHUSDT at 1786.3
 ETHUSDT 已执行 202 次，剩余 9797 次
 ---------------------------------------------------------
 3131313131315
+2023-10-30 12:49:28 CST+0800
+激活线程bool_num:051212getcommand1command is 开始getcommand223331e1e2Time: 2023-10-30 12:50:19 CST+0800
+循环产生一次错误
+binance Account has insufficient balance for requested action.
+---------------------------------------------------------
+updateerro1updateerro2updateerro3updateerro4e3s1
