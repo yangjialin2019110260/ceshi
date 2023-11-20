@@ -1,2 +1,4 @@
 
-将重启一次,报错：
+将重启一次,报错：getcommand1command is 结束getcommand2
+2023-11-20 13:30:37 CST+0800
+激活线程bool_num:7
