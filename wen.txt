@@ -1675,4 +1675,6 @@
 2023-12-08 00:53:12 CST+0800
 激活线程bool_num:843getcommand1command is 结束getcommand2
 2023-12-08 01:23:18 CST+0800
-激活线程bool_num:844
+激活线程bool_num:844getcommand1command is 结束getcommand2
+2023-12-08 01:53:23 CST+0800
+激活线程bool_num:845
