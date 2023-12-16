@@ -2541,4 +2541,6 @@
 2023-12-17 02:30:28 CST+0800
 激活线程bool_num:1276getcommand1command is 结束getcommand2
 2023-12-17 03:00:34 CST+0800
-激活线程bool_num:1277getcommand1
+激活线程bool_num:1277getcommand1command is 结束getcommand2
+2023-12-17 03:30:39 CST+0800
+激活线程bool_num:1278
